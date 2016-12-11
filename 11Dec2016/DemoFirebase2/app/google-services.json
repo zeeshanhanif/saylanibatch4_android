@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "91330271489",
+    "firebase_url": "https://demoauth-ea41a.firebaseio.com",
+    "project_id": "demoauth-ea41a",
+    "storage_bucket": "demoauth-ea41a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91330271489:android:40f040650d0ef502",
+        "android_client_info": {
+          "package_name": "com.example.android.demofirebase2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91330271489-ffre49iue6ds3i6k0cacli4vbp3m4204.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5fLlGNV5m5yzjuLcbSRSCpamEgNrXt2c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
